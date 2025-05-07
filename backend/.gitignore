@@ -15,6 +15,4 @@ build/
 .DS_Store
 Thumbs.db
 
-# Ignore existing Git folders (if accidentally present inside frontend or backend)
-frontend/.git/
-backend/.git/
+
